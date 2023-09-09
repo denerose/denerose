@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @denerose
-- 👀 I’m interested in base building games, problem solving and data science.
+- 👋 Hi, I’m denerose
+- 🧩 I’m interested in base building games, puzzles and data science.
+- 🍎 I am currently teaching myself Javascript and Typescript, following The Odin Project curriculum (<https://www.theodinproject.com/>)
 
 <!---
 denerose/denerose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

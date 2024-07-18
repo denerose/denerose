@@ -1,4 +1,4 @@
-Hi, I'm <span style="color:violet;">Saphron</span> - I'm a self taught software dev (thanks to 🌩️[The Oding Project](https://www.theodinproject.com/) and 🦆[CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)) and currently a [2024 MYOB DevelopHer](https://careers.myob.com/grad).
+Hi, I'm **Saphron** - I'm a self taught software dev (thanks to 🌩️[The Odin Project](https://www.theodinproject.com/) and 🦆[CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)) and currently a [2024 MYOB DevelopHer](https://careers.myob.com/grad).
 💜🩷🧡
 
 <!---
